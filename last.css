@@ -1,0 +1,213 @@
+button {
+    width: 120px;
+    height: 50px;
+    border: none;
+    background-color: transparent;
+  }
+  body {
+    margin: auto;
+overflow-x: hidden;
+  }
+  * {
+    box-sizing: border-box;
+  }
+  .flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  header {
+    width: 100%;
+    height: auto;
+    position: fixed;
+    display: table;
+    clear: both;
+    background-color: white;
+    z-index: 1;
+  }
+  .fake {
+    width: 100%;
+    height: 100px;
+  }
+  .nav {
+    width: 70%;
+    height: 100px;
+    float: left;
+  }
+  .logo {
+    width: 30%;
+    height: 100px;
+    float: left;
+  }
+  .clearfix {
+    display: table;
+    clear: both;
+  }
+  .content {
+    width: 70%;
+    padding: 50px;
+    float: left;
+  }
+  
+  .content p {
+    text-align: justify;
+  }
+  .application {
+    width: 30%;
+    float: left;
+    padding: 40px;
+  }
+  input {
+    width: 100%;
+    height: 50px;
+  }
+  .clearfix {
+    display: table;
+    clear: both;
+  }
+  .training {
+    width: 80%;
+    margin: auto;
+  }
+  .training h3{
+      font-size: 16px;
+      font-weight: lighter;
+  }
+  .training div {
+    width: 23%;
+    height: 100%;
+    background-color: whitesmoke;
+    float: left;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+  }
+  .training div img {
+    width: 25%;
+  }
+  .choose {
+    width: 100%;
+    height: 100%;
+    display: table;
+    clear: both;
+    padding: 40px;
+  }
+  .choose div{
+      padding: 10px;
+  }
+  .itexpert {
+    width: 50%;
+    float: left;
+  }
+  .fullhands {
+    width: 50%;
+    float: left;
+  }
+  .students {
+    width: 100%;
+    height: 100%;
+  padding: 50px;
+  text-align: justify;
+display: table;
+clear: both;
+  }
+  .student1 {
+    width: 50%;
+    float: left;
+    padding: 15px;
+  }
+  .student2 {
+    width: 50%;
+    float: left;
+    padding: 15px;
+  }
+  .placement {
+    width: 100%;
+    display: table;
+    clear: both;
+    margin-bottom: 20px;
+    
+  }
+  .placement div img {
+   width:18%;
+   float: left;
+   box-shadow: 1px 0px 9px 5px #f1c095;
+   margin-left: 20px;
+   padding: 5px;
+   
+  }
+ 
+  .placed {
+    width: 100%;
+    height: 130px;
+    background-color: lightgray;
+    margin-top: 10px;
+  }
+  .placed button {
+    width: 200px;
+    height: 50px;
+    margin-left: 60px;
+  }
+  footer {
+    width: 100%;
+    height: 100%;
+    background-color: #28a745;
+    color: white;
+    clear: both;
+    display: table;
+  }
+  .hyd {
+    width: 25%;
+    padding: 50px;
+    float: left;
+  }
+  .quick {
+    width: 25%;
+    padding: 50px;
+    float: left;
+  }
+  .reach {
+    width: 25%;
+    padding: 50px;
+    float: left;
+    word-spacing: 10px;
+  }
+  .contact {
+    width: 25%;
+    padding: 50px;
+    float: left;
+  }
+  .foot2 {
+    width: 100%;
+    height: 100%;
+    background-color: darkgreen;
+  }
+ .detail {
+    width: 100%;
+    height: 100%;
+    color: white;
+    padding: 5px;
+  }
+  .about {
+    width: 80%;
+    margin: auto;
+    display: table;
+    clear: both;
+  }
+  
+  .about,
+  p {
+    text-align: justify;
+  }
+  .text1 {
+    width: 40%;
+    float: left;
+    padding: 10px;
+  }
+  .text2 {
+    width: 60%;
+    float: left;
+    padding: 10px;
+  }
+  
